@@ -152,6 +152,8 @@ nav i{
     font-size: 1rem;
 }
 .banner .container-banner .botones{
+    width: 100%;
+    text-align: center;
     margin-top: 30px;
 }
 .banner .container-banner a{
